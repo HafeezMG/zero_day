@@ -1,4 +1,3 @@
 #!bin/bash
-pwd Applications    Documents   Dropbox Movies Pictures
-Desktop Downloads   Library Music Public
-
+pwd /0-current_working_directory
+/root/alx-system_engineering-devops/0x00-shell_basics
